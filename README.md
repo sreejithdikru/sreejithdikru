@@ -37,7 +37,7 @@
 </p>
 
 
- ### 👉 Frameworks & Tools
+ ### 👉 Frameworks
  
 <p>
    &emsp;
