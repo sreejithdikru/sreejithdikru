@@ -10,7 +10,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sreejithdikru&label=Dikru's%20Profile%20Views%20&color=dc143c&style=plastic" alt="sreejithdikru" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreejithdikru&theme=algolia" alt="sreejithdikru" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreejithliterally&theme=algolia" alt="sreejithdikru" /></p>
 
 ## 🛠️ My Skills
 
