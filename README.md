@@ -7,7 +7,7 @@
 I like to Code,Innovate and Experiment.<br>
  I love meeting new people,<br> exchanging ideas, spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sreejithdikru&label=Dikru's%20Profile%20Views%20&color=dc143c&style=plastic" alt="sreejithdikru" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sreejithdikru&label=Profile%20Views%20&color=dc143c&style=plastic" alt="sreejithdikru" /> </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreejithliterally&theme=algolia" alt="sreejithdikru" /></p>
