@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">B.Tech CSE Junior.<br>
+<h4 align="center">Computer Science Engineering Junior.<br>
 I like to Code,Innovate and Experiment.<br>
  I love meeting new people,<br> exchanging ideas, spreading knowledge and positivity.</h4>
 <br>
