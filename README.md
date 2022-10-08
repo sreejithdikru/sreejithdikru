@@ -9,79 +9,14 @@ I like to Code,Innovate and Experiment.<br>
 <br>
 
 
-## 🔥 Streak Stats
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreejithliterally&theme=algolia" alt="sreejithdikru" /></p>
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-&emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  
-</p>
 
 
- ### 👉 Frameworks & Tools
- 
-<p>
-   &emsp;
-  <a href="https://django.com" target="_blank"> 
-    <img alt="Django" src="https://camo.githubusercontent.com/4ffb9aa4d75775320d01cbc9d81bc8fc11e9eb668fc48c7eefa537a8a9bd6652/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646a616e676f2d3131324431462e7376673f267374796c653d666c6174266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465"/>
-  </a>
-  &emsp; 
-  &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flate&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
- 
-</p>
-
-<br/>
-
-## 📊 Github Stats (Expand to View) 
 
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/sreejithdikru"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sreejithdikru&show_icons=true&locale=en&theme=algolia" alt="sreejithdikru" height="192px"/></a>
-	</p>
-	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreejithdikru&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sreejithdikru" height="192px"/>
-	</p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
 
-
-<details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/sreejithdikru"><img alt="Dikru's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sreejithdikru&custom_title=Dikru's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/sreejithdikru"><img alt="Dikru's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sreejithliterally&custom_title=Dikru's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
