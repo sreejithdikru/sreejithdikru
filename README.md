@@ -24,13 +24,11 @@ I like to Code,Innovate and Experiment.<br>
 <br/>
 
 ## 🙋‍♀️ Let's Connect
-<p align="center">
-	<a href="mailto:imsreejithofficial@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/sreejithdikru"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/sreejith-s-438839196/><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/sreejithliterally"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreejithliterally&show_icons=true&locale=en&layout=compact" alt="sreejith" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreejithliterally&show_icons=true&locale=en" alt="sreejith" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreejithliterally&" alt="sreejith" /></p>
 
 
 
